@@ -1,0 +1,6 @@
+{
+  "name": "Computer Quiz",
+  "description": "Interactive computer knowledge quiz and study guide covering hardware, tech pioneers, logos, and slogans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
